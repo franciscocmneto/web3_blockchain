@@ -42,7 +42,6 @@ function Veggie() {
             pagination: false,
             drag: "free",
             gap: "5rem",
-
           }}
         >
           {veggie.map((recipe) => {
@@ -71,6 +70,7 @@ const Card = styled.div`
   border-radius: 2rem;
   overflow: hidden;
   position: relative;
+  
 
   img {
     border-radius: 2rem;
