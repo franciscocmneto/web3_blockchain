@@ -31,7 +31,6 @@ function Popular() {
 
   return (
     <div>
-      Popular
       <Wrapper>
         <h3>Popular Picks</h3>
 
@@ -41,7 +40,7 @@ function Popular() {
             arrows: false,
             pagination: false,
             drag: "free",
-            gap: "5rem",
+            gap: "3rem",
 
           }}
         >
@@ -79,7 +78,6 @@ const Card = styled.div`
     width: 100%;
     height: 100%;
     object-fit: cover;
-    //object-fit: cover;
     //width: 50vw;
     //border-radius: 16px;
   }

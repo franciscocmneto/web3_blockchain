@@ -31,7 +31,6 @@ function Veggie() {
 
   return (
     <div>
-      Popular
       <Wrapper>
         <h3>Our Vegetarian Picks</h3>
 
