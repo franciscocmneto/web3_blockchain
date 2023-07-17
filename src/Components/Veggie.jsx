@@ -2,6 +2,8 @@ import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import { Splide, SplideSlide } from "@splidejs/react-splide";
 import '@splidejs/react-splide/css';
+import { Link } from "react-router-dom";
+
 
 function Veggie() {
   const [veggie, setVeggie] = useState([]);
@@ -47,9 +49,11 @@ function Veggie() {
             return (
               <SplideSlide>
                 <Card>
-                  <p>{recipe.title}</p>
-                  <img src={recipe.image} alt={recipe.title} />
-                  <Gradient />
+                  <Link to={"/recipe/" + recipe.id}>
+                    <p>{recipe.title}</p>
+                    <img src={recipe.image} alt={recipe.title} />
+                    <Gradient />
+                  </Link>
                 </Card>
               </SplideSlide>
             );
@@ -62,6 +66,9 @@ function Veggie() {
 
 const Wrapper = styled.div`
   margin: 4rem 0rem;
+  h3{
+    margin-bottom: 1rem;
+  }
 `;
 
 const Card = styled.div`
