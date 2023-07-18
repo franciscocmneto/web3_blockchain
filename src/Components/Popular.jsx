@@ -93,7 +93,7 @@ const Card = styled.div`
     position: absolute;
     z-index: 10;
     left: 50%;
-    bottom: 0%;
+    bottom: 10%;
     transform: translate( -50%, 0%);
     color: white;
     width: 100%;
