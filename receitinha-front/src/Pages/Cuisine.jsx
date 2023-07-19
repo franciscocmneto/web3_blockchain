@@ -12,9 +12,13 @@ function Cuisine() {
     let params = useParams()
 
     const getCuisine = async (name) => {
-        const data = await fetch(`https://api.spoonacular.com/recipes/complexSearch?apiKey=${process.env.REACT_APP_API_KEY}&cuisine=${name}`)
+        // const data = await fetch(`https://api.spoonacular.com/recipes/complexSearch?apiKey=${process.env.REACT_APP_API_KEY}&cuisine=${name}`)
+        const data = await fetch(`http://127.0.0.1:5000/get_chain_${name}`)
+        
         const recipes = await data.json();
-        setCuisine(recipes.results);
+        console.log("alahjfakjf", recipes.chain[1].data.results)
+        setCuisine(recipes.chain[1].data.results)
+        // setCuisine(recipes.results);
     }
 
     useEffect(() => {

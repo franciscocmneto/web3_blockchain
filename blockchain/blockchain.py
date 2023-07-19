@@ -3,6 +3,10 @@ import json
 import time
 from flask import Flask, request, jsonify
 
+from flask_cors import CORS
+
+
+
 class Block:
     def __init__(self, index, timestamp, data, previous_hash, nonce, difficulty):
         self.index = index
@@ -75,6 +79,8 @@ class Blockchain:
 
 # Criação da instância do Flask
 app = Flask(__name__)
+
+CORS(app)
 
 # Dificuldade das blockchains
 difficulty_popular = 3
@@ -186,7 +192,7 @@ def is_valid_italian():
 @app.route('/add_block_american', methods=['POST'])
 def add_block_american():
     data = json.loads(request.data)
-    recipes = data['recipes']
+    recipes = data
 
     index = len(blockchain_american.chain)
     timestamp = time.time()
