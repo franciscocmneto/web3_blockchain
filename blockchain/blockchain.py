@@ -3,7 +3,6 @@ import json
 import time
 from flask import Flask, request, jsonify
 
-# Classe para representar um bloco na blockchain
 class Block:
     def __init__(self, index, timestamp, data, previous_hash, nonce, difficulty):
         self.index = index
@@ -77,40 +76,199 @@ class Blockchain:
 # Criação da instância do Flask
 app = Flask(__name__)
 
-# Dificuldade da blockchain
-difficulty = 3
+# Dificuldade das blockchains
+difficulty_popular = 3
+difficulty_vegetarian = 3
+difficulty_italian = 3
+difficulty_american = 3
+difficulty_japanese = 3
+difficulty_chinese = 3
 
-# Criação da instância da blockchain
-blockchain = Blockchain(difficulty)
+# Criação das instâncias das blockchains
+blockchain_popular = Blockchain(difficulty_popular)
+blockchain_vegetarian = Blockchain(difficulty_vegetarian)
+blockchain_italian = Blockchain(difficulty_italian)
+blockchain_american = Blockchain(difficulty_american)
+blockchain_japanese = Blockchain(difficulty_japanese)
+blockchain_chinese = Blockchain(difficulty_chinese)
 
-# Rota para adicionar um novo bloco à blockchain
-@app.route('/add_block', methods=['POST'])
-def add_block():
+# Rota para adicionar um novo bloco à blockchain popular
+@app.route('/add_block_popular', methods=['POST'])
+def add_block_popular():
     data = json.loads(request.data)
-    message1 = data['message1']
-    message2 = data['message2']
+    recipes = data['recipes']
 
-    index = len(blockchain.chain)
+    index = len(blockchain_popular.chain)
     timestamp = time.time()
-    previous_hash = blockchain.get_latest_block().hash
+    previous_hash = blockchain_popular.get_latest_block().hash
     nonce = 0
 
-    new_block = Block(index, timestamp, [message1, message2], previous_hash, nonce, blockchain.difficulty)
-    blockchain.add_block(new_block)
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_popular.difficulty)
+    blockchain_popular.add_block(new_block)
 
-    response = {'message': 'Block added successfully.'}
+    response = {'message': 'Block added to popular successfully.'}
     return jsonify(response)
 
-# Rota para obter o estado atual da blockchain
-@app.route('/get_chain', methods=['GET'])
-def get_chain():
-    response = {'chain': [block.to_dict() for block in blockchain.chain], 'length': len(blockchain.chain)}
+# Rota para obter o estado atual da blockchain popular
+@app.route('/get_chain_popular', methods=['GET'])
+def get_chain_popular():
+    response = {'chain': [block.to_dict() for block in blockchain_popular.chain], 'length': len(blockchain_popular.chain)}
     return jsonify(response)
 
-# Verificar se a blockchain é válida
-@app.route('/is_valid', methods=['GET'])
-def is_valid():
-    is_valid = blockchain.is_chain_valid()
+# Verificar se a blockchain popular é válida
+@app.route('/is_valid_popular', methods=['GET'])
+def is_valid_popular():
+    is_valid = blockchain_popular.is_chain_valid()
+    response = {'valid': is_valid}
+    return jsonify(response)
+
+# Rota para adicionar um novo bloco à blockchain vegetarian
+@app.route('/add_block_vegetarian', methods=['POST'])
+def add_block_vegetarian():
+    data = json.loads(request.data)
+    recipes = data['recipes']
+
+    index = len(blockchain_vegetarian.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_vegetarian.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_vegetarian.difficulty)
+    blockchain_vegetarian.add_block(new_block)
+
+    response = {'message': 'Block added to vegetarian successfully.'}
+    return jsonify(response)
+
+# Rota para obter o estado atual da blockchain vegetarian
+@app.route('/get_chain_vegetarian', methods=['GET'])
+def get_chain_vegetarian():
+    response = {'chain': [block.to_dict() for block in blockchain_vegetarian.chain], 'length': len(blockchain_vegetarian.chain)}
+    return jsonify(response)
+
+# Verificar se a blockchain vegetarian é válida
+@app.route('/is_valid_vegetarian', methods=['GET'])
+def is_valid_vegetarian():
+    is_valid = blockchain_vegetarian.is_chain_valid()
+    response = {'valid': is_valid}
+    return jsonify(response)
+
+# Rota para adicionar um novo bloco à blockchain italian
+@app.route('/add_block_italian', methods=['POST'])
+def add_block_italian():
+    data = json.loads(request.data)
+    recipes = data['recipes']
+
+    index = len(blockchain_italian.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_italian.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_italian.difficulty)
+    blockchain_italian.add_block(new_block)
+
+    response = {'message': 'Block added to italian successfully.'}
+    return jsonify(response)
+
+# Rota para obter o estado atual da blockchain italian
+@app.route('/get_chain_italian', methods=['GET'])
+def get_chain_italian():
+    response = {'chain': [block.to_dict() for block in blockchain_italian.chain], 'length': len(blockchain_italian.chain)}
+    return jsonify(response)
+
+# Verificar se a blockchain italian é válida
+@app.route('/is_valid_italian', methods=['GET'])
+def is_valid_italian():
+    is_valid = blockchain_italian.is_chain_valid()
+    response = {'valid': is_valid}
+    return jsonify(response)
+
+# Rota para adicionar um novo bloco à blockchain american
+@app.route('/add_block_american', methods=['POST'])
+def add_block_american():
+    data = json.loads(request.data)
+    recipes = data['recipes']
+
+    index = len(blockchain_american.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_american.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_american.difficulty)
+    blockchain_american.add_block(new_block)
+
+    response = {'message': 'Block added to american successfully.'}
+    return jsonify(response)
+
+# Rota para obter o estado atual da blockchain american
+@app.route('/get_chain_american', methods=['GET'])
+def get_chain_american():
+    response = {'chain': [block.to_dict() for block in blockchain_american.chain], 'length': len(blockchain_american.chain)}
+    return jsonify(response)
+
+# Verificar se a blockchain american é válida
+@app.route('/is_valid_american', methods=['GET'])
+def is_valid_american():
+    is_valid = blockchain_american.is_chain_valid()
+    response = {'valid': is_valid}
+    return jsonify(response)
+
+# Rota para adicionar um novo bloco à blockchain japanese
+@app.route('/add_block_japanese', methods=['POST'])
+def add_block_japanese():
+    data = json.loads(request.data)
+    recipes = data['recipes']
+
+    index = len(blockchain_japanese.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_japanese.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_japanese.difficulty)
+    blockchain_japanese.add_block(new_block)
+
+    response = {'message': 'Block added to japanese successfully.'}
+    return jsonify(response)
+
+# Rota para obter o estado atual da blockchain japanese
+@app.route('/get_chain_japanese', methods=['GET'])
+def get_chain_japanese():
+    response = {'chain': [block.to_dict() for block in blockchain_japanese.chain], 'length': len(blockchain_japanese.chain)}
+    return jsonify(response)
+
+# Verificar se a blockchain japanese é válida
+@app.route('/is_valid_japanese', methods=['GET'])
+def is_valid_japanese():
+    is_valid = blockchain_japanese.is_chain_valid()
+    response = {'valid': is_valid}
+    return jsonify(response)
+
+# Rota para adicionar um novo bloco à blockchain chinese
+@app.route('/add_block_chinese', methods=['POST'])
+def add_block_chinese():
+    data = json.loads(request.data)
+    recipes = data['recipes']
+
+    index = len(blockchain_chinese.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_chinese.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_chinese.difficulty)
+    blockchain_chinese.add_block(new_block)
+
+    response = {'message': 'Block added to chinese successfully.'}
+    return jsonify(response)
+
+# Rota para obter o estado atual da blockchain chinese
+@app.route('/get_chain_chinese', methods=['GET'])
+def get_chain_chinese():
+    response = {'chain': [block.to_dict() for block in blockchain_chinese.chain], 'length': len(blockchain_chinese.chain)}
+    return jsonify(response)
+
+# Verificar se a blockchain chinese é válida
+@app.route('/is_valid_chinese', methods=['GET'])
+def is_valid_chinese():
+    is_valid = blockchain_chinese.is_chain_valid()
     response = {'valid': is_valid}
     return jsonify(response)
 
