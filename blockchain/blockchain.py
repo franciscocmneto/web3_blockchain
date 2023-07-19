@@ -92,6 +92,7 @@ difficulty_chinese = 3
 
 # Criação das instâncias das blockchains
 blockchain_popular = Blockchain(difficulty_popular)
+blockchain_popular
 blockchain_vegetarian = Blockchain(difficulty_vegetarian)
 blockchain_italian = Blockchain(difficulty_italian)
 blockchain_american = Blockchain(difficulty_american)
@@ -102,7 +103,7 @@ blockchain_chinese = Blockchain(difficulty_chinese)
 @app.route('/add_block_popular', methods=['POST'])
 def add_block_popular():
     data = json.loads(request.data)
-    recipes = data['recipes']
+    recipes = data
 
     index = len(blockchain_popular.chain)
     timestamp = time.time()
@@ -132,7 +133,7 @@ def is_valid_popular():
 @app.route('/add_block_vegetarian', methods=['POST'])
 def add_block_vegetarian():
     data = json.loads(request.data)
-    recipes = data['recipes']
+    recipes = data
 
     index = len(blockchain_vegetarian.chain)
     timestamp = time.time()
@@ -278,6 +279,122 @@ def is_valid_chinese():
     response = {'valid': is_valid}
     return jsonify(response)
 
+@app.route('/preencher_1', methods=['GET'])
+def preencher_1():
+    
+    with open('jsonFile/american.json') as a:
+        dataamerican = json.load(a)
+
+    recipes = dataamerican
+
+    index = len(blockchain_american.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_american.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_american.difficulty)
+    blockchain_american.add_block(new_block)
+
+    response = {'message': 'american successfully.'}
+    return jsonify(response)
+
+@app.route('/preencher_2', methods=['GET'])
+def preencher_2():
+
+    with open('jsonFile/chinese.json') as b:
+        datachinese = json.load(b)
+
+    recipes = datachinese
+
+    index = len(blockchain_chinese.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_chinese.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_chinese.difficulty)
+    blockchain_chinese.add_block(new_block)
+
+    response = {'message': 'chinese successfully.'}
+    return jsonify(response)
+
+@app.route('/preencher_3', methods=['GET'])
+def preencher_3():
+
+    with open('jsonFile/italian.json') as c:
+        dataitalian = json.load(c)
+
+    recipes = dataitalian
+
+    index = len(blockchain_italian.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_italian.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_italian.difficulty)
+    blockchain_italian.add_block(new_block)
+
+    response = {'message': 'italian successfully.'}
+    return jsonify(response)
+
+@app.route('/preencher_4', methods=['GET'])
+def preencher_4():
+
+    with open('jsonFile/japanese.json') as d:
+        datajapanese = json.load(d)
+
+    recipes = datajapanese
+
+    index = len(blockchain_japanese.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_japanese.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_japanese.difficulty)
+    blockchain_japanese.add_block(new_block)
+
+    response = {'message': 'japanese successfully.'}
+    return jsonify(response)
+
+@app.route('/preencher_5', methods=['GET'])
+def preencher_5():
+
+    with open('jsonFile/popular.json') as e:
+        dataPopular = json.load(e)
+
+    recipes = dataPopular
+
+    index = len(blockchain_popular.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_popular.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_popular.difficulty)
+    blockchain_popular.add_block(new_block)
+
+    response = {'message': 'popular successfully.'}
+    return jsonify(response)
+
+@app.route('/preencher_6', methods=['GET'])
+def preencher_6():
+
+    with open('jsonFile/vegetarian.json') as f:
+        datavegetarian = json.load(f)
+
+    recipes = datavegetarian
+
+    index = len(blockchain_vegetarian.chain)
+    timestamp = time.time()
+    previous_hash = blockchain_vegetarian.get_latest_block().hash
+    nonce = 0
+
+    new_block = Block(index, timestamp, recipes, previous_hash, nonce, blockchain_vegetarian.difficulty)
+    blockchain_vegetarian.add_block(new_block)
+    
+
+    response = {'message': 'vegetarian successfully.'}
+    return jsonify(response)
+
 # Execução do aplicativo Flask
 if __name__ == '__main__':
     app.run(port=5000)
+    

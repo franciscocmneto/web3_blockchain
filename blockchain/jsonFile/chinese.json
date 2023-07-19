@@ -1,0 +1,56 @@
+{
+	"results": [{
+		"id": 716426,
+		"title": "Cauliflower, Brown Rice, and Vegetable Fried Rice",
+		"image": "https://spoonacular.com/recipeImages/716426-312x231.jpg",
+		"imageType": "jpg"
+	}, {
+		"id": 716311,
+		"title": "Mango Fried Rice",
+		"image": "https://spoonacular.com/recipeImages/716311-312x231.jpg",
+		"imageType": "jpg"
+	}, {
+		"id": 644826,
+		"title": "Gluten Free Dairy Free Sugar Free Chinese Chicken Salad",
+		"image": "https://spoonacular.com/recipeImages/644826-312x231.jpg",
+		"imageType": "jpg"
+	}, {
+		"id": 660231,
+		"title": "Skinny Veggie Fried Rice",
+		"image": "https://spoonacular.com/recipeImages/660231-312x231.jpg",
+		"imageType": "jpg"
+	}, {
+		"id": 663150,
+		"title": "Thai Savory Brown Fried Rice",
+		"image": "https://spoonacular.com/recipeImages/663150-312x231.jpg",
+		"imageType": "jpg"
+	}, {
+		"id": 638642,
+		"title": "Chinese Chicken Salad With Chipotle Dressing",
+		"image": "https://spoonacular.com/recipeImages/638642-312x231.jpg",
+		"imageType": "jpg"
+	}, {
+		"id": 638649,
+		"title": "Chinese Chicken Salad With Creamy Soy Dressing",
+		"image": "https://spoonacular.com/recipeImages/638649-312x231.jpg",
+		"imageType": "jpg"
+	}, {
+		"id": 638369,
+		"title": "Korean Sweet n Sour Chicken",
+		"image": "https://spoonacular.com/recipeImages/638369-312x231.jpg",
+		"imageType": "jpg"
+	}, {
+		"id": 663169,
+		"title": "Thai Veggie Slaw with Peanut Dressing and Crispy Wontons",
+		"image": "https://spoonacular.com/recipeImages/663169-312x231.jpg",
+		"imageType": "jpg"
+	}, {
+		"id": 646425,
+		"title": "Healthier Pork Fried Rice",
+		"image": "https://spoonacular.com/recipeImages/646425-312x231.jpg",
+		"imageType": "jpg"
+	}],
+	"offset": 0,
+	"number": 10,
+	"totalResults": 43
+}
