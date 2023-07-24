@@ -1,0 +1,3921 @@
+{
+  "recipes": [
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 12,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 309,
+      "healthScore": 100,
+      "creditsText": "blogspot.com",
+      "sourceName": "blogspot.com",
+      "pricePerServing": 134.63,
+      "extendedIngredients": [
+        {
+          "id": 10016049,
+          "aisle": "Pasta and Rice;Canned and Jarred",
+          "image": "dry-cannellini-beans.jpg",
+          "consistency": "SOLID",
+          "name": "cannellini beans",
+          "nameClean": "dried cannellini beans",
+          "original": "1 1/4 cups dried cannellini (white kidney) beans (3 3/4 cups cooked)",
+          "originalName": "1/4 cups dried cannellini (white kidney) beans cooked)",
+          "amount": 3.75,
+          "unit": "cups",
+          "meta": [
+            "dried",
+            "white",
+            "cooked",
+            "( kidney)"
+          ],
+          "measures": {
+            "us": {
+              "amount": 3.75,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 757.5,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 93604,
+          "aisle": "Ethnic Foods",
+          "image": "curry-leaves.jpg",
+          "consistency": "SOLID",
+          "name": "curry leaves",
+          "nameClean": "curry leaves",
+          "original": "handful of dried curry leaves, crumbled (or 1 bay leaf)",
+          "originalName": "dried curry leaves, crumbled (or 1 bay leaf)",
+          "amount": 1.0,
+          "unit": "handful",
+          "meta": [
+            "dried",
+            "crumbled",
+            "(or 1 bay leaf)"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "handful",
+              "unitLong": "handful"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "handful",
+              "unitLong": "handful"
+            }
+          }
+        },
+        {
+          "id": 2041,
+          "aisle": "Produce;Spices and Seasonings",
+          "image": "tarragon.jpg",
+          "consistency": "SOLID",
+          "name": "tarragon",
+          "nameClean": "tarragon",
+          "original": "1/4 cup fresh tarragon",
+          "originalName": "fresh tarragon",
+          "amount": 0.25,
+          "unit": "cup",
+          "meta": [
+            "fresh"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.25,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 12.75,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 11215,
+          "aisle": "Produce",
+          "image": "garlic.png",
+          "consistency": "SOLID",
+          "name": "garlic",
+          "nameClean": "garlic",
+          "original": "1 clove garlic, minced or crushed",
+          "originalName": "garlic, minced or crushed",
+          "amount": 1.0,
+          "unit": "clove",
+          "meta": [
+            "minced",
+            "crushed"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "clove",
+              "unitLong": "clove"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "clove",
+              "unitLong": "clove"
+            }
+          }
+        },
+        {
+          "id": 9152,
+          "aisle": "Produce",
+          "image": "lemon-juice.jpg",
+          "consistency": "LIQUID",
+          "name": "juice of lemon",
+          "nameClean": "lemon juice",
+          "original": "juice from 1 lemon (3 tablespoons)",
+          "originalName": "juice from 1 lemon",
+          "amount": 3.0,
+          "unit": "",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 3.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 3.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 9156,
+          "aisle": "Produce",
+          "image": "zest-lemon.jpg",
+          "consistency": "SOLID",
+          "name": "lemon zest",
+          "nameClean": "lemon peel",
+          "original": "1 teaspoon grated lemon zest",
+          "originalName": "grated lemon zest",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [
+            "grated"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 4053,
+          "aisle": "Oil, Vinegar, Salad Dressing",
+          "image": "olive-oil.jpg",
+          "consistency": "LIQUID",
+          "name": "olive oil",
+          "nameClean": "olive oil",
+          "original": "1/2 cup olive oil",
+          "originalName": "olive oil",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 108.0,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 4053,
+          "aisle": "Oil, Vinegar, Salad Dressing",
+          "image": "olive-oil.jpg",
+          "consistency": "LIQUID",
+          "name": "olive oil",
+          "nameClean": "olive oil",
+          "original": "2 teaspoons olive oil",
+          "originalName": "olive oil",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 1002030,
+          "aisle": "Spices and Seasonings",
+          "image": "pepper.jpg",
+          "consistency": "SOLID",
+          "name": "cracked pepper",
+          "nameClean": "black pepper",
+          "original": "fresh cracked black pepper to taste",
+          "originalName": "fresh cracked black pepper to taste",
+          "amount": 6.0,
+          "unit": "servings",
+          "meta": [
+            "fresh",
+            "black",
+            "to taste"
+          ],
+          "measures": {
+            "us": {
+              "amount": 6.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            },
+            "metric": {
+              "amount": 6.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            }
+          }
+        },
+        {
+          "id": 1012047,
+          "aisle": "Spices and Seasonings",
+          "image": "salt.jpg",
+          "consistency": "SOLID",
+          "name": "sea salt",
+          "nameClean": "coarse sea salt",
+          "original": "1 teaspoon sea salt, or to taste",
+          "originalName": "sea salt, or to taste",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [
+            "to taste"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 11260,
+          "aisle": "Produce",
+          "image": "mushrooms.png",
+          "consistency": "SOLID",
+          "name": "mushrooms",
+          "nameClean": "fresh mushrooms",
+          "original": "8 large white mushrooms, sliced",
+          "originalName": "white mushrooms, sliced",
+          "amount": 8.0,
+          "unit": "large",
+          "meta": [
+            "white",
+            "sliced"
+          ],
+          "measures": {
+            "us": {
+              "amount": 8.0,
+              "unitShort": "large",
+              "unitLong": "larges"
+            },
+            "metric": {
+              "amount": 8.0,
+              "unitShort": "large",
+              "unitLong": "larges"
+            }
+          }
+        },
+        {
+          "id": 1012046,
+          "aisle": "Condiments",
+          "image": "whole-grain-mustard.png",
+          "consistency": "LIQUID",
+          "name": "grain mustard",
+          "nameClean": "whole grain mustard",
+          "original": "1 to 1 1/2 teaspoons Dijon or grain mustard, to taste",
+          "originalName": "Dijon or grain mustard, to taste",
+          "amount": 1.0,
+          "unit": "teaspoons",
+          "meta": [
+            "to taste"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        }
+      ],
+      "id": 782585,
+      "title": "Cannellini Bean and Asparagus Salad with Mushrooms",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "http://foodandspice.blogspot.com/2016/05/cannellini-bean-and-asparagus-salad.html",
+      "image": "https://spoonacular.com/recipeImages/782585-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "Cannellini Bean and Asparagus Salad with Mushrooms requires approximately <b>45 minutes</b> from start to finish. This main course has <b>482 calories</b>, <b>31g of protein</b>, and <b>6g of fat</b> per serving. This gluten free, dairy free, lacto ovo vegetarian, and vegan recipe serves 6 and costs <b>$1.35 per serving</b>. 309 people were impressed by this recipe. Head to the store and pick up grain mustard, sea salt, lemon zest, and a few other things to make it today. It is brought to you by foodandspice.blogspot.com. Taking all factors into account, this recipe <b>earns a spoonacular score of 70%</b>, which is pretty good. Similar recipes are <a href=\"https://spoonacular.com/recipes/cannellini-bean-salad-422994\">Cannellini Bean Salad</a>, <a href=\"https://spoonacular.com/recipes/refreshing-cannellini-bean-salad-113127\">Refreshing Cannellini Bean Salad</a>, and <a href=\"https://spoonacular.com/recipes/cannellini-and-green-bean-salad-33177\">Cannellini-and-Green Bean Salad</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "side dish",
+        "lunch",
+        "main course",
+        "salad",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "occasions": [],
+      "instructions": "Rinse the cannellini beans and soak for 8 hours or overnight in several inches of water. Drain and rinse, then transfer to a medium saucepan and cover with fresh water. Add the curry leaves or bay leaf and bring to a boil. Reduce heat to medium-low, cover, and simmer for 1 hour or until the beans are tender but not falling apart. Drain and transfer to a large salad bowl.Meanwhile, snap the woody ends off of the asparagus spears and steam the spears for 6 minutes or until just tender but still retaining their crunch. Transfer to the salad bowl.Now cook the mushrooms. Heat the oil in a large skillet over high heat. As soon as the oil is hot, drop in the mushrooms and cook, stirring constantly, for 5 minutes or until the mushrooms begin to brown and lose some of their liquid. Transfer to the bowl with the asparagus.To make the dressing, combine the tarragon, lemon zest, garlic, lemon juice, olive oil and mustard in a small food processor or blender. Process until smooth.Pour the dressing over the salad, season with salt and pepper, and toss. Serve at room temperature or chilled.",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Rinse the cannellini beans and soak for 8 hours or overnight in several inches of water.",
+              "ingredients": [
+                {
+                  "id": 10716050,
+                  "name": "cannellini beans",
+                  "localizedName": "cannellini beans",
+                  "image": "cooked-cannellini-beans.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 480,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 2,
+              "step": "Drain and rinse, then transfer to a medium saucepan and cover with fresh water.",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "localizedName": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Add the curry leaves or bay leaf and bring to a boil. Reduce heat to medium-low, cover, and simmer for 1 hour or until the beans are tender but not falling apart.",
+              "ingredients": [
+                {
+                  "id": 93604,
+                  "name": "curry leaves",
+                  "localizedName": "curry leaves",
+                  "image": "curry-leaves.jpg"
+                },
+                {
+                  "id": 2004,
+                  "name": "bay leaves",
+                  "localizedName": "bay leaves",
+                  "image": "bay-leaves.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "beans",
+                  "localizedName": "beans",
+                  "image": "kidney-beans.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 60,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 4,
+              "step": "Drain and transfer to a large salad bowl.Meanwhile, snap the woody ends off of the asparagus spears and steam the spears for 6 minutes or until just tender but still retaining their crunch.",
+              "ingredients": [
+                {
+                  "id": 11011,
+                  "name": "asparagus",
+                  "localizedName": "asparagus",
+                  "image": "asparagus.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ],
+              "length": {
+                "number": 6,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 5,
+              "step": "Transfer to the salad bowl.Now cook the mushrooms.",
+              "ingredients": [
+                {
+                  "id": 11260,
+                  "name": "mushrooms",
+                  "localizedName": "mushrooms",
+                  "image": "mushrooms.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Heat the oil in a large skillet over high heat. As soon as the oil is hot, drop in the mushrooms and cook, stirring constantly, for 5 minutes or until the mushrooms begin to brown and lose some of their liquid.",
+              "ingredients": [
+                {
+                  "id": 11260,
+                  "name": "mushrooms",
+                  "localizedName": "mushrooms",
+                  "image": "mushrooms.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": {
+                "number": 5,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 7,
+              "step": "Transfer to the bowl with the asparagus.To make the dressing, combine the tarragon, lemon zest, garlic, lemon juice, olive oil and mustard in a small food processor or blender. Process until smooth.",
+              "ingredients": [
+                {
+                  "id": 9152,
+                  "name": "lemon juice",
+                  "localizedName": "lemon juice",
+                  "image": "lemon-juice.jpg"
+                },
+                {
+                  "id": 9156,
+                  "name": "lemon zest",
+                  "localizedName": "lemon zest",
+                  "image": "zest-lemon.jpg"
+                },
+                {
+                  "id": 11011,
+                  "name": "asparagus",
+                  "localizedName": "asparagus",
+                  "image": "asparagus.png"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 2041,
+                  "name": "tarragon",
+                  "localizedName": "tarragon",
+                  "image": "tarragon.jpg"
+                },
+                {
+                  "id": 2046,
+                  "name": "mustard",
+                  "localizedName": "mustard",
+                  "image": "regular-mustard.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404771,
+                  "name": "food processor",
+                  "localizedName": "food processor",
+                  "image": "food-processor.png"
+                },
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "blender.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 8,
+              "step": "Pour the dressing over the salad, season with salt and pepper, and toss.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 9,
+              "step": "Serve at room temperature or chilled.",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/cannellini-bean-and-asparagus-salad-with-mushrooms-782585"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 2,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 10,
+      "healthScore": 35,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 54.61,
+      "extendedIngredients": [
+        {
+          "id": 10211821,
+          "aisle": "Produce",
+          "image": "bell-pepper-orange.png",
+          "consistency": "SOLID",
+          "name": "bell pepper",
+          "nameClean": "bell pepper",
+          "original": "1 large bell pepper, diced",
+          "originalName": "bell pepper, diced",
+          "amount": 1.0,
+          "unit": "large",
+          "meta": [
+            "diced"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "large",
+              "unitLong": "large"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "large",
+              "unitLong": "large"
+            }
+          }
+        },
+        {
+          "id": 16018,
+          "aisle": "Canned and Jarred",
+          "image": "black-beans.jpg",
+          "consistency": "SOLID",
+          "name": "black beans",
+          "nameClean": "canned black beans",
+          "original": "1 (14 ounce) can black beans, rinsed and drained",
+          "originalName": "black beans, rinsed and drained",
+          "amount": 14.0,
+          "unit": "ounce",
+          "meta": [
+            "rinsed",
+            "drained",
+            "canned"
+          ],
+          "measures": {
+            "us": {
+              "amount": 14.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 396.893,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 10011693,
+          "aisle": "Canned and Jarred",
+          "image": "tomatoes-canned.png",
+          "consistency": "SOLID",
+          "name": "canned tomatoes",
+          "nameClean": "canned tomatoes",
+          "original": "1 28-ounce can crushed or puréed tomatoes",
+          "originalName": "crushed or puréed tomatoes",
+          "amount": 28.0,
+          "unit": "ounce",
+          "meta": [
+            "crushed",
+            "canned"
+          ],
+          "measures": {
+            "us": {
+              "amount": 28.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 793.787,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 2009,
+          "aisle": "Spices and Seasonings",
+          "image": "chili-powder.jpg",
+          "consistency": "SOLID",
+          "name": "chili powder",
+          "nameClean": "chili powder",
+          "original": "2 teaspoons chili powder",
+          "originalName": "chili powder",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 1022020,
+          "aisle": "Spices and Seasonings",
+          "image": "garlic-powder.png",
+          "consistency": "SOLID",
+          "name": "garlic powder",
+          "nameClean": "garlic powder",
+          "original": "1 teaspoon garlic powder",
+          "originalName": "garlic powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 1012014,
+          "aisle": "Spices and Seasonings",
+          "image": "ground-cumin.jpg",
+          "consistency": "SOLID",
+          "name": "ground cumin",
+          "nameClean": "ground cumin",
+          "original": "1/2 teaspoon ground cumin",
+          "originalName": "ground cumin",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 1034053,
+          "aisle": "Oil, Vinegar, Salad Dressing",
+          "image": "olive-oil.jpg",
+          "consistency": "LIQUID",
+          "name": "olive oil",
+          "nameClean": "extra virgin olive oil",
+          "original": "1 1/2 tablespoons light or extra-virgin olive oil",
+          "originalName": "light or extra-virgin olive oil",
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "meta": [
+            "light",
+            "extra-virgin"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.5,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 1.5,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 11282,
+          "aisle": "Produce",
+          "image": "brown-onion.png",
+          "consistency": "SOLID",
+          "name": "onion",
+          "nameClean": "onion",
+          "original": "1 cup chopped onion",
+          "originalName": "chopped onion",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [
+            "chopped"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 160.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 2027,
+          "aisle": "Produce;Spices and Seasonings",
+          "image": "oregano.jpg",
+          "consistency": "SOLID",
+          "name": "oregano",
+          "nameClean": "oregano",
+          "original": "1 teaspoon dried oregano",
+          "originalName": "dried oregano",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [
+            "dried"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 2028,
+          "aisle": "Spices and Seasonings",
+          "image": "paprika.jpg",
+          "consistency": "SOLID",
+          "name": "paprika",
+          "nameClean": "paprika",
+          "original": "1 teaspoon paprika",
+          "originalName": "paprika",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        }
+      ],
+      "id": 635058,
+      "title": "Black Bean and Peppers Taco Filling",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "http://www.foodista.com/recipe/L7GY4PX3/black-bean-and-peppers-taco-filling",
+      "image": "https://spoonacular.com/recipeImages/635058-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "You can never have too many hor d'oeuvre recipes, so give Black Bean and Peppers Taco Filling a try. This gluten free, dairy free, lacto ovo vegetarian, and vegan recipe serves 8 and costs <b>55 cents per serving</b>. One serving contains <b>118 calories</b>, <b>5g of protein</b>, and <b>3g of fat</b>. A mixture of bell pepper, black beans, chili powder, and a handful of other ingredients are all it takes to make this recipe so scrumptious. 10 people have tried and liked this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. It is a <b>very reasonably priced</b> recipe for fans of Mexican food. It is brought to you by Foodista. Overall, this recipe earns an <b>awesome spoonacular score of 88%</b>. <a href=\"https://spoonacular.com/recipes/black-bean-taco-filling-1424571\">black bean taco filling</a>, <a href=\"https://spoonacular.com/recipes/kale-turkey-and-black-bean-taco-filling-plus-5-ways-to-use-it-1276641\">Kale, Turkey and Black Bean Taco Filling -Plus 5 Ways to Use It</a>, and <a href=\"https://spoonacular.com/recipes/kale-turkey-and-black-bean-taco-filling-plus-5-ways-to-use-it-506463\">Kale, Turkey and Black Bean Taco Filling -Plus 5 Ways to Use It</a> are very similar to this recipe.",
+      "cuisines": [
+        "Mexican"
+      ],
+      "dishTypes": [
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "occasions": [],
+      "instructions": "<ol><li>In a skillet add olive oil, onions and bell pepper. Cook until tender, about 3  5 minutes. Add tomatoes and seasonings, saute for 10 minutes. Add black beans and cook until warm.</li><li>Serve with tortillas.</li><li>Additional toppings: Romaine Lettuce, Cheese, jalapenos, salsa, hot sauce, avocado, and greek yogurt</li></ol>",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "In a skillet add olive oil, onions and bell pepper. Cook until tender, about 3  5 minutes.",
+              "ingredients": [
+                {
+                  "id": 10211821,
+                  "name": "bell pepper",
+                  "localizedName": "bell pepper",
+                  "image": "bell-pepper-orange.png"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": {
+                "number": 5,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 2,
+              "step": "Add tomatoes and seasonings, saute for 10 minutes.",
+              "ingredients": [
+                {
+                  "id": 1042027,
+                  "name": "seasoning",
+                  "localizedName": "seasoning",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 10,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Add black beans and cook until warm.",
+              "ingredients": [
+                {
+                  "id": 16015,
+                  "name": "black beans",
+                  "localizedName": "black beans",
+                  "image": "black-beans.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Serve with tortillas.",
+              "ingredients": [
+                {
+                  "id": 18364,
+                  "name": "tortilla",
+                  "localizedName": "tortilla",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Additional toppings: Romaine",
+              "ingredients": [
+                {
+                  "id": 10111251,
+                  "name": "romaine",
+                  "localizedName": "romaine",
+                  "image": "romaine"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Lettuce, Cheese, jalapenos, salsa, hot sauce, avocado, and greek yogurt",
+              "ingredients": [
+                {
+                  "id": 1256,
+                  "name": "greek yogurt",
+                  "localizedName": "greek yogurt",
+                  "image": "plain-yogurt.jpg"
+                },
+                {
+                  "id": 6168,
+                  "name": "hot sauce",
+                  "localizedName": "hot sauce",
+                  "image": "hot-sauce-or-tabasco.png"
+                },
+                {
+                  "id": 11979,
+                  "name": "jalapeno pepper",
+                  "localizedName": "jalapeno pepper",
+                  "image": "jalapeno-pepper.png"
+                },
+                {
+                  "id": 9037,
+                  "name": "avocado",
+                  "localizedName": "avocado",
+                  "image": "avocado.jpg"
+                },
+                {
+                  "id": 11252,
+                  "name": "lettuce",
+                  "localizedName": "lettuce",
+                  "image": "iceberg-lettuce.jpg"
+                },
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                },
+                {
+                  "id": 6164,
+                  "name": "salsa",
+                  "localizedName": "salsa",
+                  "image": "salsa.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/black-bean-and-peppers-taco-filling-635058"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": true,
+      "weightWatcherSmartPoints": 3,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 1,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 39.94,
+      "extendedIngredients": [
+        {
+          "id": 2010,
+          "aisle": "Spices and Seasonings",
+          "image": "cinnamon.jpg",
+          "consistency": "SOLID",
+          "name": "cinnamon",
+          "nameClean": "cinnamon",
+          "original": "1/4 teaspoon of Cinnamon",
+          "originalName": "Cinnamon",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.25,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 0.25,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 9078,
+          "aisle": "Produce",
+          "image": "cranberries.jpg",
+          "consistency": "SOLID",
+          "name": "cranberries",
+          "nameClean": "cranberries",
+          "original": "1 cup of Cranberries",
+          "originalName": "Cranberries",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 100.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 2025,
+          "aisle": "Spices and Seasonings",
+          "image": "ground-nutmeg.jpg",
+          "consistency": "SOLID",
+          "name": "nutmeg",
+          "nameClean": "nutmeg",
+          "original": "1/8 teaspoon of Nutmeg",
+          "originalName": "Nutmeg",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.125,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 0.125,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 9286,
+          "aisle": "Produce",
+          "image": "pomegranate-seeds.jpg",
+          "consistency": "SOLID",
+          "name": "pomegranate seeds",
+          "nameClean": "pomegranate seeds",
+          "original": "1/2 cup of Pomegranate seeds",
+          "originalName": "Pomegranate seeds",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 82.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 19335,
+          "aisle": "Baking",
+          "image": "sugar-in-bowl.png",
+          "consistency": "SOLID",
+          "name": "sugar",
+          "nameClean": "sugar",
+          "original": "1/4 cup of Sugar",
+          "originalName": "Sugar",
+          "amount": 0.25,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.25,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 50.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 14412,
+          "aisle": "Beverages",
+          "image": "water.png",
+          "consistency": "LIQUID",
+          "name": "water",
+          "nameClean": "water",
+          "original": "1/2 cup of Water",
+          "originalName": "Water",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 118.294,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        }
+      ],
+      "id": 640453,
+      "title": "Cranegranate Sauce",
+      "readyInMinutes": 240,
+      "servings": 4,
+      "sourceUrl": "http://www.foodista.com/recipe/FF7KXGHP/cranegranate-sauce",
+      "image": "https://spoonacular.com/recipeImages/640453-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "Cranegranate Sauce is a <b>gluten free, dairy free, lacto ovo vegetarian, and fodmap friendly</b> sauce. For <b>40 cents per serving</b>, this recipe <b>covers 2%</b> of your daily requirements of vitamins and minerals. This recipe serves 4. One serving contains <b>77 calories</b>, <b>0g of protein</b>, and <b>0g of fat</b>. This recipe is liked by 2 foodies and cooks. Head to the store and pick up cinnamon, water, pomegranate seeds, and a few other things to make it today. From preparation to the plate, this recipe takes approximately <b>4 hours</b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 18%</b>. This score is not so excellent. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/cranegranate-sauce-1635829\">Cranegranate Sauce</a>, <a href=\"https://spoonacular.com/recipes/cranegranate-sauce-1407367\">Cranegranate Sauce</a>, and <a href=\"https://spoonacular.com/recipes/zhoug-sauce-aka-schug-sauce-a-spicy-middle-eastern-cilantro-sauce-1697571\">Zhoug Sauce (aka Schug Sauce) – A Spicy Middle Eastern Cilantro Sauce</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "sauce"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "fodmap friendly",
+        "vegan"
+      ],
+      "occasions": [],
+      "instructions": "<ol><li>Throw all your ingredients in a pot.</li><li>Bring it to a boil, then turn it down to medium and let it cook for about 5 min.</li><li>Remove it from the heat, pop it in the fridge, and let it chill down for at least 3-4 hours.</li></ol>",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Throw all your ingredients in a pot.Bring it to a boil, then turn it down to medium and let it cook for about 5 min.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": {
+                "number": 5,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 2,
+              "step": "Remove it from the heat, pop it in the fridge, and let it chill down for at least 3-4 hours.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "pop",
+                  "localizedName": "soft drink",
+                  "image": ""
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 240,
+                "unit": "minutes"
+              }
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/cranegranate-sauce-640453"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 8,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 68,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 139.51,
+      "extendedIngredients": [
+        {
+          "id": 20035,
+          "aisle": "Pasta and Rice;Health Foods",
+          "image": "uncooked-quinoa.png",
+          "consistency": "SOLID",
+          "name": "quinoa",
+          "nameClean": "quinoa",
+          "original": "1 cup red quinoa",
+          "originalName": "red quinoa",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [
+            "red"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 170.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 14412,
+          "aisle": "Beverages",
+          "image": "water.png",
+          "consistency": "LIQUID",
+          "name": "water",
+          "nameClean": "water",
+          "original": "1 1/2 cups water",
+          "originalName": "water",
+          "amount": 1.5,
+          "unit": "cups",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 354.882,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 2047,
+          "aisle": "Spices and Seasonings",
+          "image": "salt.jpg",
+          "consistency": "SOLID",
+          "name": "salt",
+          "nameClean": "table salt",
+          "original": "1 teaspoon salt",
+          "originalName": "salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 9037,
+          "aisle": "Produce",
+          "image": "avocado.jpg",
+          "consistency": "SOLID",
+          "name": "avocado",
+          "nameClean": "avocado",
+          "original": "1/2 avocado, diced",
+          "originalName": "avocado, diced",
+          "amount": 0.5,
+          "unit": "",
+          "meta": [
+            "diced"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 11529,
+          "aisle": "Produce",
+          "image": "tomato.png",
+          "consistency": "SOLID",
+          "name": "tomato",
+          "nameClean": "tomato",
+          "original": "1/2 tomato, diced",
+          "originalName": "tomato, diced",
+          "amount": 0.5,
+          "unit": "",
+          "meta": [
+            "diced"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 11429,
+          "aisle": "Produce",
+          "image": "radishes.jpg",
+          "consistency": "SOLID",
+          "name": "radishes",
+          "nameClean": "radish",
+          "original": "5 red radishes, diced",
+          "originalName": "red radishes, diced",
+          "amount": 5.0,
+          "unit": "",
+          "meta": [
+            "diced",
+            "red"
+          ],
+          "measures": {
+            "us": {
+              "amount": 5.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 5.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 11291,
+          "aisle": "Produce",
+          "image": "spring-onions.jpg",
+          "consistency": "SOLID",
+          "name": "green onions",
+          "nameClean": "spring onions",
+          "original": "5 green onions, chopped",
+          "originalName": "green onions, chopped",
+          "amount": 5.0,
+          "unit": "",
+          "meta": [
+            "chopped"
+          ],
+          "measures": {
+            "us": {
+              "amount": 5.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 5.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 11297,
+          "aisle": "Produce;Spices and Seasonings",
+          "image": "parsley.jpg",
+          "consistency": "SOLID",
+          "name": "parsley",
+          "nameClean": "parsley",
+          "original": "1/2 cup parsley, chopped",
+          "originalName": "parsley, chopped",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [
+            "chopped"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 30.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 11951,
+          "aisle": "Produce",
+          "image": "yellow-bell-pepper.jpg",
+          "consistency": "SOLID",
+          "name": "bell pepper",
+          "nameClean": "yellow pepper",
+          "original": "1/2 cup yellow pepper,diced",
+          "originalName": "yellow pepper,diced",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [
+            "diced",
+            "yellow"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 74.5,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 10111205,
+          "aisle": "Produce",
+          "image": "english-cucumber.png",
+          "consistency": "SOLID",
+          "name": "cucumber",
+          "nameClean": "english cucumber",
+          "original": "1/2 cup English cucumber, diced",
+          "originalName": "English cucumber, diced",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [
+            "diced",
+            "english"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 52.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 2031,
+          "aisle": "Spices and Seasonings",
+          "image": "chili-powder.jpg",
+          "consistency": "SOLID",
+          "name": "cayenne pepper",
+          "nameClean": "ground cayenne pepper",
+          "original": "1 teaspoon cayenne pepper",
+          "originalName": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 2043,
+          "aisle": "Spices and Seasonings",
+          "image": "turmeric.jpg",
+          "consistency": "SOLID",
+          "name": "tumeric",
+          "nameClean": "turmeric",
+          "original": "1 teaspoon tumeric",
+          "originalName": "tumeric",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 1002014,
+          "aisle": "Spices and Seasonings",
+          "image": "ground-cumin.jpg",
+          "consistency": "SOLID",
+          "name": "cumin",
+          "nameClean": "cumin",
+          "original": "1/2 teaspoon cumin",
+          "originalName": "cumin",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 1022068,
+          "aisle": "Oil, Vinegar, Salad Dressing",
+          "image": "red-wine-vinegar.jpg",
+          "consistency": "LIQUID",
+          "name": "red wine vinegar",
+          "nameClean": "red wine vinegar",
+          "original": "3 1/2 tablespoons red wine vinegar",
+          "originalName": "red wine vinegar",
+          "amount": 3.5,
+          "unit": "tablespoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 3.5,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 3.5,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 1034053,
+          "aisle": "Oil, Vinegar, Salad Dressing",
+          "image": "olive-oil.jpg",
+          "consistency": "LIQUID",
+          "name": "extra virgin olive oil",
+          "nameClean": "extra virgin olive oil",
+          "original": "2 tablespoons extra virgin olive oil",
+          "originalName": "extra virgin olive oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        }
+      ],
+      "id": 639950,
+      "title": "Colorful Red Quinoa Not So Tabbouleh Salad",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/BZ5TWVLJ/colorful-red-quinoa-not-so-tabbouleh-salad",
+      "image": "https://spoonacular.com/recipeImages/639950-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "Colorful Red Quinoa Not So Tabbouleh Salad requires around <b>45 minutes</b> from start to finish. For <b>$1.4 per serving</b>, this recipe <b>covers 21%</b> of your daily requirements of vitamins and minerals. This hor d'oeuvre has <b>283 calories</b>, <b>8g of protein</b>, and <b>14g of fat</b> per serving. This recipe serves 4. 2 people have tried and liked this recipe. This recipe is typical of middl eastern cuisine. This recipe from Foodista requires red wine vinegar, water, salt, and cayenne pepper. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan</b> diet. With a spoonacular <b>score of 87%</b>, this dish is super. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/colorful-red-quinoa-not-so-tabbouleh-salad-1212333\">Colorful Red Quinoa Not So Tabbouleh Salad</a>, <a href=\"https://spoonacular.com/recipes/colorful-quinoa-salad-272775\">Colorful Quinoa Salad</a>, and <a href=\"https://spoonacular.com/recipes/colorful-quinoa-salad-1273033\">Colorful Quinoa Salad</a>.",
+      "cuisines": [
+        "Middle Eastern"
+      ],
+      "dishTypes": [
+        "side dish",
+        "antipasti",
+        "salad",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "occasions": [],
+      "instructions": "Wash the 1 cup of quinoa in a colander for several seconds. Add quinoa, water and salt to a small pot and boil for 15 minutes. You will know it is cooked when it becomes soft and you see little white antennas pop from the grain.\nMeanwhile, wash all your veggies well and chop and dice them accordingly.\nAdd all the veggies to a medium glass bowl and toss. In a small bowl mix the red wine vinegar, olive oil and all the spices and blend well. Add the vinagrette to the salad and enjoy.\nWill keep for 1 day, but best eaten the same day.",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Wash the 1 cup of quinoa in a colander for several seconds.",
+              "ingredients": [
+                {
+                  "id": 20035,
+                  "name": "quinoa",
+                  "localizedName": "quinoa",
+                  "image": "uncooked-quinoa.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404639,
+                  "name": "colander",
+                  "localizedName": "colander",
+                  "image": "colander.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add quinoa, water and salt to a small pot and boil for 15 minutes. You will know it is cooked when it becomes soft and you see little white antennas pop from the grain.",
+              "ingredients": [
+                {
+                  "id": 20035,
+                  "name": "quinoa",
+                  "localizedName": "quinoa",
+                  "image": "uncooked-quinoa.png"
+                },
+                {
+                  "id": 0,
+                  "name": "grains",
+                  "localizedName": "grains",
+                  "image": ""
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "pop",
+                  "localizedName": "soft drink",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": {
+                "number": 15,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Meanwhile, wash all your veggies well and chop and dice them accordingly.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Add all the veggies to a medium glass bowl and toss. In a small bowl mix the red wine vinegar, olive oil and all the spices and blend well.",
+              "ingredients": [
+                {
+                  "id": 1022068,
+                  "name": "red wine vinegar",
+                  "localizedName": "red wine vinegar",
+                  "image": "red-wine-vinegar.jpg"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 2035,
+                  "name": "spices",
+                  "localizedName": "spices",
+                  "image": "spices.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Add the vinagrette to the salad and enjoy.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Will keep for 1 day, but best eaten the same day.",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/colorful-red-quinoa-not-so-tabbouleh-salad-639950"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 8,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 11,
+      "healthScore": 3,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 87.87,
+      "extendedIngredients": [
+        {
+          "id": 12108,
+          "aisle": "Baking",
+          "image": "shredded-coconut.jpg",
+          "consistency": "SOLID",
+          "name": "coconut beverage",
+          "nameClean": "unsweetened coconut",
+          "original": "1 cup unsweetened coconut beverage, divided",
+          "originalName": "unsweetened coconut beverage, divided",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [
+            "unsweetened",
+            "divided"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 85.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 99009,
+          "aisle": "Canned and Jarred",
+          "image": "coconut-milk.jpg",
+          "consistency": "LIQUID",
+          "name": "coconut milk",
+          "nameClean": "light coconut milk",
+          "original": "1 cup light coconut milk",
+          "originalName": "light coconut milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [
+            "light"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 200.0,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 9176,
+          "aisle": "Produce",
+          "image": "mango.jpg",
+          "consistency": "SOLID",
+          "name": "mango",
+          "nameClean": "mango",
+          "original": "1 cup mango, fresh or frozen",
+          "originalName": "mango, fresh or frozen",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [
+            "fresh"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 165.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 19911,
+          "aisle": "Cereal",
+          "image": "maple-syrup.png",
+          "consistency": "LIQUID",
+          "name": "maple syrup",
+          "nameClean": "maple syrup",
+          "original": "3 1/2 to 4 1/2 Tbs maple syrup, divided (add more if necessary)",
+          "originalName": "maple syrup, divided (add more if necessary)",
+          "amount": 3.5,
+          "unit": "Tbs",
+          "meta": [
+            "divided",
+            "(add more if necessary)"
+          ],
+          "measures": {
+            "us": {
+              "amount": 3.5,
+              "unitShort": "Tbs",
+              "unitLong": "Tbs"
+            },
+            "metric": {
+              "amount": 3.5,
+              "unitShort": "Tbs",
+              "unitLong": "Tbs"
+            }
+          }
+        },
+        {
+          "id": 9266,
+          "aisle": "Produce",
+          "image": "pineapple.jpg",
+          "consistency": "SOLID",
+          "name": "pineapple",
+          "nameClean": "pineapple",
+          "original": "3/4 cup pineapple, fresh or frozen",
+          "originalName": "pineapple, fresh or frozen",
+          "amount": 0.75,
+          "unit": "cup",
+          "meta": [
+            "fresh"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.75,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 123.75,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": -1,
+          "aisle": "?",
+          "image": null,
+          "consistency": "SOLID",
+          "name": "popsicle moulds",
+          "nameClean": null,
+          "original": "6 popsicle moulds",
+          "originalName": "popsicle moulds",
+          "amount": 6.0,
+          "unit": "",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 6.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 6.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        }
+      ],
+      "id": 663858,
+      "title": "Tropical Ice Pops",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "http://www.foodista.com/recipe/KCTN2T42/tropical-ice-pops",
+      "image": "https://spoonacular.com/recipeImages/663858-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "Tropical Ice Pops might be a good recipe to expand your dessert repertoire. One serving contains <b>180 calories</b>, <b>1g of protein</b>, and <b>11g of fat</b>. This gluten free, dairy free, paleolithic, and lacto ovo vegetarian recipe serves 6 and costs <b>88 cents per serving</b>. This recipe from Foodista has 11 fans. If you have coconut beverage, coconut milk, pineapple, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 64%</b>. This score is pretty good. Try <a href=\"https://spoonacular.com/recipes/healthy-tropical-candy-corn-ice-pops-618777\">Healthy Tropical Candy Corn Ice Pops</a>, <a href=\"https://spoonacular.com/recipes/tequila-sunrise-ice-pops-to-end-all-ice-pops-604745\">Tequila Sunrise Ice Pops to End All Ice Pops</a>, and <a href=\"https://spoonacular.com/recipes/chocolate-dip-ice-pops-from-purely-pops-q-a-with-the-author-and-giveaway-608288\">Chocolate Dip Ice Pops from Purely Pops | Q&A with the Author and Giveaway</a> for similar recipes.",
+      "cuisines": [],
+      "dishTypes": [
+        "dessert"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "paleolithic",
+        "lacto ovo vegetarian",
+        "primal",
+        "vegan"
+      ],
+      "occasions": [],
+      "instructions": "<ol><li>Pure the mango, pineapple, 3/4 cup coconut beverage and 1 1/2 tablespoon maple syrup in a blender.</li><li>Pour equal amounts of the mixture into each mould.</li><li>In a small bowl, mix the coconut milk, 1/4 cup of coconut beverage, and 2-3 TBS of maple syrup (adjust the sweetness to your taste).</li><li>Pour equal amounts of the coconut mixture on top of the fruit pure.</li><li>Insert a popsicle stick into each of the moulds, leaving about a quarter of the stick above the mould.</li><li>Freeze the popsicles for about 2 to 3 hours.</li><li>To remove the ice pops from the moulds, run them under warm to hot water for about 5 to 10 seconds before pulling them out.</li></ol>",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Pure the mango, pineapple, 3/4 cup coconut beverage and 1 1/2 tablespoon maple syrup in a blender.",
+              "ingredients": [
+                {
+                  "id": 19911,
+                  "name": "maple syrup",
+                  "localizedName": "maple syrup",
+                  "image": "maple-syrup.png"
+                },
+                {
+                  "id": 9266,
+                  "name": "pineapple",
+                  "localizedName": "pineapple",
+                  "image": "pineapple.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "drink",
+                  "localizedName": "drink",
+                  "image": ""
+                },
+                {
+                  "id": 12104,
+                  "name": "coconut",
+                  "localizedName": "coconut",
+                  "image": "coconut.jpg"
+                },
+                {
+                  "id": 9176,
+                  "name": "mango",
+                  "localizedName": "mango",
+                  "image": "mango.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "blender.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Pour equal amounts of the mixture into each mould.In a small bowl, mix the coconut milk, 1/4 cup of coconut beverage, and 2-3 TBS of maple syrup (adjust the sweetness to your taste).",
+              "ingredients": [
+                {
+                  "id": 12118,
+                  "name": "coconut milk",
+                  "localizedName": "coconut milk",
+                  "image": "coconut-milk.png"
+                },
+                {
+                  "id": 19911,
+                  "name": "maple syrup",
+                  "localizedName": "maple syrup",
+                  "image": "maple-syrup.png"
+                },
+                {
+                  "id": 0,
+                  "name": "drink",
+                  "localizedName": "drink",
+                  "image": ""
+                },
+                {
+                  "id": 12104,
+                  "name": "coconut",
+                  "localizedName": "coconut",
+                  "image": "coconut.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Pour equal amounts of the coconut mixture on top of the fruit pure.Insert a popsicle stick into each of the moulds, leaving about a quarter of the stick above the mould.Freeze the popsicles for about 2 to 3 hours.To remove the ice pops from the moulds, run them under warm to hot water for about 5 to 10 seconds before pulling them out.",
+              "ingredients": [
+                {
+                  "id": 12104,
+                  "name": "coconut",
+                  "localizedName": "coconut",
+                  "image": "coconut.jpg"
+                },
+                {
+                  "id": 9431,
+                  "name": "fruit",
+                  "localizedName": "fruit",
+                  "image": "mixed-fresh-fruit.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 10014412,
+                  "name": "ice",
+                  "localizedName": "ice",
+                  "image": "ice-cubes.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 408704,
+                  "name": "popsicle sticks",
+                  "localizedName": "popsicle sticks",
+                  "image": "popsicle-sticks.jpg"
+                }
+              ],
+              "length": {
+                "number": 180,
+                "unit": "minutes"
+              }
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/tropical-ice-pops-663858"
+    },
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 15,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 16,
+      "healthScore": 3,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 115.68,
+      "extendedIngredients": [
+        {
+          "id": 1001,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "butter-sliced.jpg",
+          "consistency": "SOLID",
+          "name": "vegan butter",
+          "nameClean": "butter",
+          "original": "1/2 cup vegan butter (1 stick), melted",
+          "originalName": "vegan butter (1 stick), melted",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [
+            "melted",
+            "(1 stick)"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 113.5,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 19336,
+          "aisle": "Baking",
+          "image": "powdered-sugar.jpg",
+          "consistency": "SOLID",
+          "name": "powdered sugar",
+          "nameClean": "powdered sugar",
+          "original": "2 cups powdered sugar (try Swerve all natural, no calorie powdered sugar – perfect for diabetics!)",
+          "originalName": "powdered sugar (try Swerve all natural, no calorie powdered sugar – perfect for diabetics!)",
+          "amount": 2.0,
+          "unit": "cups",
+          "meta": [
+            "for diabetics!",
+            "(try Swerve all natural, no calorie powdered sugar - perfect )"
+          ],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 240.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 10018617,
+          "aisle": "Sweet Snacks;Baking",
+          "image": "graham-crackers.jpg",
+          "consistency": "SOLID",
+          "name": "vegan vanilla cookie crumbs",
+          "nameClean": "graham cracker crumbs",
+          "original": "1 1/2 cups vegan graham cracker crumbs or vegan vanilla cookie crumbs",
+          "originalName": "vegan graham cracker crumbs or vegan vanilla cookie crumbs",
+          "amount": 1.5,
+          "unit": "cups",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 126.0,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 12195,
+          "aisle": "Nut butters, Jams, and Honey",
+          "image": "nut-butter.png",
+          "consistency": "SOLID",
+          "name": "almond butter",
+          "nameClean": "nut butter",
+          "original": "1 cup almond butter (you can use peanut butter too if you prefer)",
+          "originalName": "almond butter (you can use peanut butter too if you prefer)",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [
+            "canned",
+            "(you can use peanut butter too if you prefer)"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 250.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 19904,
+          "aisle": "Sweet Snacks",
+          "image": "dark-chocolate-pieces.jpg",
+          "consistency": "SOLID",
+          "name": "vegan chocolate",
+          "nameClean": "dark chocolate",
+          "original": "12 ounces vegan dark chocolate",
+          "originalName": "vegan dark chocolate",
+          "amount": 12.0,
+          "unit": "ounces",
+          "meta": [
+            "dark"
+          ],
+          "measures": {
+            "us": {
+              "amount": 12.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 340.194,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        }
+      ],
+      "id": 632101,
+      "title": "Almond Butter and Chocolate Squares",
+      "readyInMinutes": 45,
+      "servings": 16,
+      "sourceUrl": "https://www.foodista.com/recipe/LQ5QNZSC/almond-butter-and-chocolate-squares",
+      "image": "https://spoonacular.com/recipeImages/632101-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "Almond Butter and Chocolate Squares is a condiment that serves 16. One serving contains <b>366 calories</b>, <b>6g of protein</b>, and <b>24g of fat</b>. For <b>$1.16 per serving</b>, this recipe <b>covers 9%</b> of your daily requirements of vitamins and minerals. 16 people have made this recipe and would make it again. It is brought to you by Foodista. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. It is a good option if you're following a <b>lacto ovo vegetarian</b> diet. A couple people really liked this Southern dish. If you have vegan butter, powdered sugar, vegan vanilla cookie crumbs, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 25%</b>. This score is rather bad. <a href=\"https://spoonacular.com/recipes/chocolate-zucchini-almond-butter-squares-1077666\">Chocolate Zucchini Almond Butter Squares</a>, <a href=\"https://spoonacular.com/recipes/no-bake-chocolate-almond-butter-squares-1599723\">No Bake Chocolate Almond Butter Squares</a>, and <a href=\"https://spoonacular.com/recipes/almond-peanut-butter-squares-404759\">Almond Peanut Butter Squares</a> are very similar to this recipe.",
+      "cuisines": [
+        "Southern"
+      ],
+      "dishTypes": [
+        "condiment",
+        "dip",
+        "spread"
+      ],
+      "diets": [
+        "lacto ovo vegetarian"
+      ],
+      "occasions": [],
+      "instructions": "Stir the melted butter, powdered sugar, graham cracker/vanilla crumbs, and almond butter together, until all of the ingredients are incorporated.\nLine a 9 x 13 inch dish with foil. Drape the foil over the sides of the dish so that you can easily remove it once the bars set. Press the mixture into the bottom of the dish.\nMelt the vegan chocolate in a double boiler and spread the chocolate over the almond butter mixture.\nWhile the chocolate is still warm, cut the bars. Allow to set for at least an hour.",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Stir the melted butter, powdered sugar, graham cracker/vanilla crumbs, and almond butter together, until all of the ingredients are incorporated.",
+              "ingredients": [
+                {
+                  "id": 18617,
+                  "name": "graham crackers",
+                  "localizedName": "graham crackers",
+                  "image": "graham-crackers.jpg"
+                },
+                {
+                  "id": 19336,
+                  "name": "powdered sugar",
+                  "localizedName": "powdered sugar",
+                  "image": "powdered-sugar.jpg"
+                },
+                {
+                  "id": 12195,
+                  "name": "almond butter",
+                  "localizedName": "almond butter",
+                  "image": "almond-butter.jpg"
+                },
+                {
+                  "id": 1052050,
+                  "name": "vanilla",
+                  "localizedName": "vanilla",
+                  "image": "vanilla.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Line a 9 x 13 inch dish with foil. Drape the foil over the sides of the dish so that you can easily remove it once the bars set. Press the mixture into the bottom of the dish.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404765,
+                  "name": "aluminum foil",
+                  "localizedName": "aluminum foil",
+                  "image": "aluminum-foil.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Melt the vegan chocolate in a double boiler and spread the chocolate over the almond butter mixture.",
+              "ingredients": [
+                {
+                  "id": 12195,
+                  "name": "almond butter",
+                  "localizedName": "almond butter",
+                  "image": "almond-butter.jpg"
+                },
+                {
+                  "id": 19081,
+                  "name": "chocolate",
+                  "localizedName": "chocolate",
+                  "image": "milk-chocolate.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404699,
+                  "name": "double boiler",
+                  "localizedName": "double boiler",
+                  "image": "double-boiler.jpg"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "While the chocolate is still warm, cut the bars. Allow to set for at least an hour.",
+              "ingredients": [
+                {
+                  "id": 19081,
+                  "name": "chocolate",
+                  "localizedName": "chocolate",
+                  "image": "milk-chocolate.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/almond-butter-and-chocolate-squares-632101"
+    },
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 15,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 14,
+      "healthScore": 2,
+      "creditsText": "Afrolems",
+      "license": "CC BY 4.0",
+      "sourceName": "Afrolems",
+      "pricePerServing": 76.58,
+      "extendedIngredients": [
+        {
+          "id": 1001,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "butter-sliced.jpg",
+          "consistency": "SOLID",
+          "name": "butter",
+          "nameClean": "butter",
+          "original": "2 tablespoons of butter",
+          "originalName": "butter",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 12108,
+          "aisle": "Baking",
+          "image": "shredded-coconut.jpg",
+          "consistency": "SOLID",
+          "name": "coconut flakes",
+          "nameClean": "unsweetened coconut",
+          "original": "1 tablespoon of coconut flakes",
+          "originalName": "coconut flakes",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            }
+          }
+        },
+        {
+          "id": 12118,
+          "aisle": "Canned and Jarred;Milk, Eggs, Other Dairy",
+          "image": "coconut-milk.png",
+          "consistency": "LIQUID",
+          "name": "coconut milk",
+          "nameClean": "coconut milk",
+          "original": "4 tablespoons of coconut milk",
+          "originalName": "coconut milk",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 4.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 4.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 20081,
+          "aisle": "Baking",
+          "image": "flour.png",
+          "consistency": "SOLID",
+          "name": "flour",
+          "nameClean": "wheat flour",
+          "original": "3 tablespoons of flour",
+          "originalName": "flour",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 3.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 3.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 99295,
+          "aisle": "Produce",
+          "image": "plantains.jpg",
+          "consistency": "SOLID",
+          "name": "finger of plantain",
+          "nameClean": "plantain",
+          "original": "1 finger of plantain",
+          "originalName": "finger of plantain",
+          "amount": 1.0,
+          "unit": "",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 19335,
+          "aisle": "Baking",
+          "image": "sugar-in-bowl.png",
+          "consistency": "SOLID",
+          "name": "sugar",
+          "nameClean": "sugar",
+          "original": "3.5 tablespoons of sugar",
+          "originalName": "sugar",
+          "amount": 3.5,
+          "unit": "tablespoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 3.5,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 3.5,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 1052050,
+          "aisle": "Baking",
+          "image": "vanilla.jpg",
+          "consistency": "SOLID",
+          "name": "vanilla",
+          "nameClean": "vanilla",
+          "original": "1 teaspoon of vanilla",
+          "originalName": "vanilla",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 14412,
+          "aisle": "Beverages",
+          "image": "water.png",
+          "consistency": "LIQUID",
+          "name": "water",
+          "nameClean": "water",
+          "original": "4 tablespoons of water",
+          "originalName": "water",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 4.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 4.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        }
+      ],
+      "id": 716334,
+      "title": "Plantain Toffee Balls",
+      "readyInMinutes": 45,
+      "servings": 2,
+      "sourceUrl": "http://www.afrolems.com/2015/03/15/plantain-toffee-balls/",
+      "image": "https://spoonacular.com/recipeImages/716334-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "Need a <b>lacto ovo vegetarian side dish</b>? Plantain Toffee Balls could be a tremendous recipe to try. One portion of this dish contains roughly <b>3g of protein</b>, <b>20g of fat</b>, and a total of <b>413 calories</b>. This recipe serves 2 and costs 77 cents per serving. This recipe from Afrolems has 14 fans. Head to the store and pick up butter, water, finger of plantain, and a few other things to make it today. From preparation to the plate, this recipe takes about <b>45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 30%</b>, which is not so spectacular. Similar recipes are <a href=\"https://spoonacular.com/recipes/juj-green-plantain-and-cheese-balls-629173\">Jujú (Green Plantain and Cheese Balls)</a>, <a href=\"https://spoonacular.com/recipes/ripe-plantain-balls-buuelos-de-pltano-maduro-226285\">Ripe Plantain Balls (Buñuelos de Plátano Maduro)</a>, and <a href=\"https://spoonacular.com/recipes/cacao-coconut-plantain-rice-balls-with-pepitas-563942\">Cacao-Coconut Plantain Rice Balls with Pepitas</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "side dish"
+      ],
+      "diets": [
+        "lacto ovo vegetarian"
+      ],
+      "occasions": [],
+      "instructions": "Peel and mash your plantain till soft. Mix it with the flour, form mini balls and place in the oven to bake for about 20-25 minutes. Please note the plantain mix will still be moist so use a spoon to help form the balls if you are having difficulty with that. Make sure to drizzle oil on the baking sheet so it does not stick to the sheet when it begins to caramelize. If you do not have an oven you can choose to fry the plantain balls as well. I have not tried the frying method but make sure to dab off the excess oil from the plantain.In a separate pot, on very low heat, melt the butter and pour in the sugar, vanilla, milk and water and stir. Leave it on very low heat throughout. Stir once in a while and if you have a candy thermometer, it is ready at 240F. If you do not, the toffee base is ready when it turns light brown like a caramel colour.Dip the plantain balls and swirl and place on a plate to cool. While its still warm, sprinkle your toppings on it. In this case, my toppings were coconut flakes. Serve when it’s cool.",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Peel and mash your plantain till soft.",
+              "ingredients": [
+                {
+                  "id": 99295,
+                  "name": "plantain",
+                  "localizedName": "plantain",
+                  "image": "plantains.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Mix it with the flour, form mini balls and place in the oven to bake for about 20-25 minutes. Please note the plantain mix will still be moist so use a spoon to help form the balls if you are having difficulty with that. Make sure to drizzle oil on the baking sheet so it does not stick to the sheet when it begins to caramelize. If you do not have an oven you can choose to fry the plantain balls as well. I have not tried the frying method but make sure to dab off the excess oil from the plantain.In a separate pot, on very low heat, melt the butter and pour in the sugar, vanilla, milk and water and stir. Leave it on very low heat throughout. Stir once in a while and if you have a candy thermometer, it is ready at 240F. If you do not, the toffee base is ready when it turns light brown like a caramel colour.Dip the plantain balls and swirl and place on a plate to cool. While its still warm, sprinkle your toppings on it. In this case, my toppings were coconut flakes.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "caramel color",
+                  "localizedName": "caramel color",
+                  "image": "food-coloring.png"
+                },
+                {
+                  "id": 12108,
+                  "name": "coconut flakes",
+                  "localizedName": "coconut flakes",
+                  "image": "coconut-flakes.png"
+                },
+                {
+                  "id": 99295,
+                  "name": "plantain",
+                  "localizedName": "plantain",
+                  "image": "plantains.jpg"
+                },
+                {
+                  "id": 1052050,
+                  "name": "vanilla",
+                  "localizedName": "vanilla",
+                  "image": "vanilla.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                },
+                {
+                  "id": 10019383,
+                  "name": "toffee",
+                  "localizedName": "toffee",
+                  "image": "toffee-pieces.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "candy",
+                  "localizedName": "candy",
+                  "image": ""
+                },
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 0,
+                  "name": "base",
+                  "localizedName": "base",
+                  "image": ""
+                },
+                {
+                  "id": 1077,
+                  "name": "milk",
+                  "localizedName": "milk",
+                  "image": "milk.png"
+                },
+                {
+                  "id": 0,
+                  "name": "dip",
+                  "localizedName": "dip",
+                  "image": ""
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404670,
+                  "name": "candy thermometer",
+                  "localizedName": "candy thermometer",
+                  "image": "candy-thermometer.jpg"
+                },
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": {
+                    "number": 240.0,
+                    "unit": "Fahrenheit"
+                  }
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": {
+                "number": 25,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Serve when it’s cool.",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/plantain-toffee-balls-716334"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 0,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 8,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 13.47,
+      "extendedIngredients": [
+        {
+          "id": 11960,
+          "aisle": "Produce",
+          "image": "baby-carrots.jpg",
+          "consistency": "SOLID",
+          "name": "baby carrots",
+          "nameClean": "baby carrots",
+          "original": "2 cups baby carrots",
+          "originalName": "baby carrots",
+          "amount": 2.0,
+          "unit": "cups",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 256.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 10028033,
+          "aisle": "Bakery/Bread",
+          "image": "italian-bread.jpg",
+          "consistency": "SOLID",
+          "name": "bread crumbs )",
+          "nameClean": "italian bread",
+          "original": "1/8 cup bread crumbs (Italian style)",
+          "originalName": "bread crumbs (Italian style)",
+          "amount": 0.125,
+          "unit": "cup",
+          "meta": [
+            "italian",
+            "( style"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.125,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 3.5,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 2031,
+          "aisle": "Spices and Seasonings",
+          "image": "chili-powder.jpg",
+          "consistency": "SOLID",
+          "name": "cayenne pepper",
+          "nameClean": "ground cayenne pepper",
+          "original": "½ tsp cayenne pepper",
+          "originalName": "cayenne pepper",
+          "amount": 0.5,
+          "unit": "tsp",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 16157,
+          "aisle": "Gluten Free;Ethnic Foods;Health Foods",
+          "image": "chickpea-flour-or-another-gluten-free-flour.jpg",
+          "consistency": "SOLID",
+          "name": "chickpea flour",
+          "nameClean": "chickpea flour",
+          "original": "1 cup chickpea flour",
+          "originalName": "chickpea flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 120.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 11165,
+          "aisle": "Produce",
+          "image": "cilantro.png",
+          "consistency": "SOLID",
+          "name": "cilantro",
+          "nameClean": "cilantro",
+          "original": "1 tbsp. cilantro (chopped)",
+          "originalName": "cilantro (chopped)",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "meta": [
+            "chopped",
+            "()"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            }
+          }
+        },
+        {
+          "id": 2047,
+          "aisle": "Spices and Seasonings",
+          "image": "salt.jpg",
+          "consistency": "SOLID",
+          "name": "salt",
+          "nameClean": "table salt",
+          "original": "¾ tsp salt",
+          "originalName": "salt",
+          "amount": 0.75,
+          "unit": "tsp",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.75,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 0.75,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 1016168,
+          "aisle": "Condiments",
+          "image": "hot-sauce-or-tabasco.png",
+          "consistency": "LIQUID",
+          "name": "sriracha sauce",
+          "nameClean": "sriracha",
+          "original": "½ tbsp. sriracha sauce",
+          "originalName": "sriracha sauce",
+          "amount": 0.5,
+          "unit": "tbsp",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 14412,
+          "aisle": "Beverages",
+          "image": "water.png",
+          "consistency": "LIQUID",
+          "name": "water",
+          "nameClean": "water",
+          "original": "1/8 cup water",
+          "originalName": "water",
+          "amount": 0.125,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.125,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 29.573,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        }
+      ],
+      "id": 660222,
+      "title": "Skinny Carrot Fritters",
+      "readyInMinutes": 45,
+      "servings": 16,
+      "sourceUrl": "http://www.foodista.com/recipe/DWGYRF8G/skinny-carrot-fritters",
+      "image": "https://spoonacular.com/recipeImages/660222-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe Skinny Carrot Fritters can be made <b>in roughly 45 minutes</b>. This dairy free, lacto ovo vegetarian, and vegan recipe serves 16 and costs <b>13 cents per serving</b>. This hor d'oeuvre has <b>36 calories</b>, <b>2g of protein</b>, and <b>1g of fat</b> per serving. This recipe from Foodista has 2 fans. If you have chickpea flour, sriracha sauce, cayenne pepper, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 59%</b>. This score is solid. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/skinny-carrot-fritters-1376247\">Skinny Carrot Fritters</a>, <a href=\"https://spoonacular.com/recipes/carrot-fritters-392938\">Carrot Fritters</a>, and <a href=\"https://spoonacular.com/recipes/carrot-scallion-fritters-39912\">Carrot Scallion Fritters</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "side dish",
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": [
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "occasions": [],
+      "instructions": "<ol><li>Grind the carrots in a grinder. (You may grate the carrots as well if desired).</li><li>In a mixing bowl combine all the ingredients and mix properly with a spoon. Let it stand for few minutes.</li><li>In the meantime heat the nonstick pan/griddle in a medium flame. Grease the pan with cooking spray/oil.</li><li>Pour the 1 tbsp. spoonful of the mix onto the pan and cook for some time.</li><li>Once it starts to cook flip to the other side and cook for few minutes or until light golden in color and lightly crispy in texture.</li><li>Serve hot or at room temperature.</li></ol>",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Grind the carrots in a grinder. (You may grate the carrots as well if desired).In a mixing bowl combine all the ingredients and mix properly with a spoon.",
+              "ingredients": [
+                {
+                  "id": 11124,
+                  "name": "carrot",
+                  "localizedName": "carrot",
+                  "image": "sliced-carrot.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 405907,
+                  "name": "mixing bowl",
+                  "localizedName": "mixing bowl",
+                  "image": "mixing-bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Let it stand for few minutes.In the meantime heat the nonstick pan/griddle in a medium flame. Grease the pan with cooking spray/oil.",
+              "ingredients": [
+                {
+                  "id": 4679,
+                  "name": "cooking spray",
+                  "localizedName": "cooking spray",
+                  "image": "cooking-spray.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Pour the 1 tbsp. spoonful of the mix onto the pan and cook for some time.Once it starts to cook flip to the other side and cook for few minutes or until light golden in color and lightly crispy in texture.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Serve hot or at room temperature.",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/skinny-carrot-fritters-660222"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 18,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 81,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 321.68,
+      "extendedIngredients": [
+        {
+          "id": 10020444,
+          "aisle": "Pasta and Rice",
+          "image": "rice-white-long-grain-or-basmatii-cooked.jpg",
+          "consistency": "SOLID",
+          "name": "basmati rice - 2",
+          "nameClean": "basmati rice",
+          "original": "cup Basmati Rice - 2",
+          "originalName": "Basmati Rice - 2",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 185.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 10211821,
+          "aisle": "Produce",
+          "image": "bell-pepper-orange.png",
+          "consistency": "SOLID",
+          "name": "bell peppers - i used half of and colour",
+          "nameClean": "bell pepper",
+          "original": "Bell peppers - I used half of red and yellow colour",
+          "originalName": "Bell peppers - I used half of red and yellow colour",
+          "amount": 2.0,
+          "unit": "servings",
+          "meta": [
+            "red",
+            "yellow"
+          ],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            }
+          }
+        },
+        {
+          "id": 11124,
+          "aisle": "Produce",
+          "image": "sliced-carrot.png",
+          "consistency": "SOLID",
+          "name": "carrot",
+          "nameClean": "carrot",
+          "original": "Carrot - 1 cut into thin strips",
+          "originalName": "Carrot cut into thin strips",
+          "amount": 1.0,
+          "unit": "",
+          "meta": [
+            "cut into thin strips"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 93711,
+          "aisle": "Produce",
+          "image": "yellow-wax-beans.png",
+          "consistency": "SOLID",
+          "name": "beans - ½",
+          "nameClean": "wax beans",
+          "original": "cup Beans - ½",
+          "originalName": "Beans - ½",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 236.588,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 11304,
+          "aisle": "Produce",
+          "image": "peas.jpg",
+          "consistency": "SOLID",
+          "name": "peas - ¼",
+          "nameClean": "petite peas",
+          "original": "cup Green peas - ¼",
+          "originalName": "Green peas - ¼",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [
+            "green"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 145.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 11168,
+          "aisle": "Produce",
+          "image": "corn.png",
+          "consistency": "SOLID",
+          "name": "corn - ¼",
+          "nameClean": "corn",
+          "original": "cup Corn - ¼",
+          "originalName": "Corn - ¼",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 154.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 11109,
+          "aisle": "Produce",
+          "image": "cabbage.jpg",
+          "consistency": "SOLID",
+          "name": "cabbage - ¼",
+          "nameClean": "cabbage",
+          "original": "cup Cabbage - ¼ finely grated",
+          "originalName": "Cabbage - ¼ finely grated",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [
+            "finely grated"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 70.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 11282,
+          "aisle": "Produce",
+          "image": "brown-onion.png",
+          "consistency": "SOLID",
+          "name": "onions - 1",
+          "nameClean": "onion",
+          "original": "small Onions - 1 finely sliced",
+          "originalName": "Onions - 1 finely sliced",
+          "amount": 1.0,
+          "unit": "small",
+          "meta": [
+            "finely sliced"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "small",
+              "unitLong": "small"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "small",
+              "unitLong": "small"
+            }
+          }
+        },
+        {
+          "id": 10093754,
+          "aisle": "Ethnic Foods",
+          "image": "ginger-garlic-paste.png",
+          "consistency": "SOLID",
+          "name": "ginger garlic paste n",
+          "nameClean": "ginger garlic paste",
+          "original": "Ginger garlic paste - 1 tbspn",
+          "originalName": "Ginger garlic paste n",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            }
+          }
+        },
+        {
+          "id": 11819,
+          "aisle": "Produce",
+          "image": "red-chili.jpg",
+          "consistency": "SOLID",
+          "name": "chillies to 3 depending on your taste",
+          "nameClean": "chili pepper",
+          "original": "Green chillies - 2 to 3 depending on your taste",
+          "originalName": "Green chillies to 3 depending on your taste",
+          "amount": 2.0,
+          "unit": "",
+          "meta": [
+            "green"
+          ],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 16124,
+          "aisle": "Ethnic Foods;Condiments",
+          "image": "soy-sauce.jpg",
+          "consistency": "LIQUID",
+          "name": "soya sauce n",
+          "nameClean": "soy sauce",
+          "original": "Soya sauce - 1 tbspn",
+          "originalName": "Soya sauce n",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            }
+          }
+        },
+        {
+          "id": 11549,
+          "aisle": "Canned and Jarred",
+          "image": "tomato-sauce-or-pasta-sauce.jpg",
+          "consistency": "SOLID",
+          "name": "chilli sauce/tomato sauce n",
+          "nameClean": "canned tomato sauce",
+          "original": "Chilli sauce/tomato sauce - 1 tbspn",
+          "originalName": "Chilli sauce/tomato sauce n",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            }
+          }
+        },
+        {
+          "id": 12087,
+          "aisle": "Nuts;Health Foods",
+          "image": "cashews.jpg",
+          "consistency": "SOLID",
+          "name": "cashews and raisins",
+          "nameClean": "cashews",
+          "original": "Cashews and raisins",
+          "originalName": "Cashews and raisins",
+          "amount": 2.0,
+          "unit": "servings",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            }
+          }
+        },
+        {
+          "id": 4582,
+          "aisle": "Oil, Vinegar, Salad Dressing",
+          "image": "vegetable-oil.jpg",
+          "consistency": "LIQUID",
+          "name": "oil spoons",
+          "nameClean": "cooking oil",
+          "original": "Oil - 3 spoons",
+          "originalName": "Oil spoons",
+          "amount": 3.0,
+          "unit": "",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 3.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 3.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 1102047,
+          "aisle": "Spices and Seasonings",
+          "image": "salt-and-pepper.jpg",
+          "consistency": "SOLID",
+          "name": "salt and pepper",
+          "nameClean": "salt and pepper",
+          "original": "Salt and pepper to taste",
+          "originalName": "Salt and pepper to taste",
+          "amount": 2.0,
+          "unit": "servings",
+          "meta": [
+            "to taste"
+          ],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            }
+          }
+        }
+      ],
+      "id": 664553,
+      "title": "Vegetable Fried Rice",
+      "readyInMinutes": 45,
+      "servings": 2,
+      "sourceUrl": "https://www.foodista.com/recipe/TNCSDDXY/vegetable-fried-rice",
+      "image": "https://spoonacular.com/recipeImages/664553-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe Vegetable Fried Rice can be made <b>in approximately 45 minutes</b>. For <b>$3.22 per serving</b>, you get a main course that serves 2. Watching your figure? This gluten free, dairy free, lacto ovo vegetarian, and vegan recipe has <b>777 calories</b>, <b>25g of protein</b>, and <b>18g of fat</b> per serving. 2 people have tried and liked this recipe. It is a <b>pretty expensive</b> recipe for fans of Chinese food. A mixture of basmati rice - 2, salt and pepper, peas - ¼, and a handful of other ingredients are all it takes to make this recipe so delicious. It is brought to you by Foodista. Overall, this recipe earns an <b>awesome spoonacular score of 81%</b>. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/veg-fried-rice-how-to-make-vegetable-fried-rice-rice-s-1218263\">veg fried rice , how to make vegetable fried rice | rice s</a>, <a href=\"https://spoonacular.com/recipes/veg-fried-rice-how-to-make-vegetable-fried-rice-rice-s-1227723\">veg fried rice , how to make vegetable fried rice | rice s</a>, and <a href=\"https://spoonacular.com/recipes/veg-fried-rice-how-to-make-vegetable-fried-rice-rice-s-1222461\">veg fried rice , how to make vegetable fried rice | rice s</a>.",
+      "cuisines": [
+        "Chinese",
+        "Asian"
+      ],
+      "dishTypes": [
+        "side dish",
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "occasions": [],
+      "instructions": "Cook the basmati rice with 4 cups water..\nMeanwhile, in a saucepan add the oil and fry the onions..\nOnce they turn soft and translucent add the ginger garlic paste and green chillies and saute for a minute..\nThen add all the vegetables,salt and pepper..\nSprinkle very little water and allow the veggies to cook for two minutes..\nThey should be half cooked..\nNow add the soya sauce and chilli sauce..\nNow add the cooked rice to this vegetable mixture and stir this mixture for a minute or two in low flame..\nRoast some cashews and raisins in ghee and also add them..\nIf you dont like the sweet taste you can omit the raisins..\nFried rice is ready..\nIt tastes good when served with gobi Manchurian..\nOr just tomato sauce and raita will do..",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Cook the basmati rice with 4 cups water..",
+              "ingredients": [
+                {
+                  "id": 10020444,
+                  "name": "basmati rice",
+                  "localizedName": "basmati rice",
+                  "image": "rice-white-long-grain-or-basmatii-cooked.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Meanwhile, in a saucepan add the oil and fry the onions..",
+              "ingredients": [
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "localizedName": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Once they turn soft and translucent add the ginger garlic paste and green chillies and saute for a minute..",
+              "ingredients": [
+                {
+                  "id": 10093754,
+                  "name": "ginger garlic paste",
+                  "localizedName": "ginger garlic paste",
+                  "image": "ginger-garlic-paste.png"
+                },
+                {
+                  "id": 31015,
+                  "name": "green chili pepper",
+                  "localizedName": "green chili pepper",
+                  "image": "chili-peppers-green.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Then add all the vegetables,salt and pepper..",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Sprinkle very little water and allow the veggies to cook for two minutes..",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 2,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 6,
+              "step": "They should be half cooked..",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Now add the soya sauce and chilli sauce..",
+              "ingredients": [
+                {
+                  "id": 16124,
+                  "name": "soy sauce",
+                  "localizedName": "soy sauce",
+                  "image": "soy-sauce.jpg"
+                },
+                {
+                  "id": 11819,
+                  "name": "chili pepper",
+                  "localizedName": "chili pepper",
+                  "image": "red-chili.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Now add the cooked rice to this vegetable mixture and stir this mixture for a minute or two in low flame..",
+              "ingredients": [
+                {
+                  "id": 10220445,
+                  "name": "cooked rice",
+                  "localizedName": "cooked rice",
+                  "image": "uncooked-white-rice.png"
+                },
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 9,
+              "step": "Roast some cashews and raisins in ghee and also add them..",
+              "ingredients": [
+                {
+                  "id": 12087,
+                  "name": "cashews",
+                  "localizedName": "cashews",
+                  "image": "cashews.jpg"
+                },
+                {
+                  "id": 9299,
+                  "name": "raisins",
+                  "localizedName": "raisins",
+                  "image": "raisins.jpg"
+                },
+                {
+                  "id": 93632,
+                  "name": "ghee",
+                  "localizedName": "ghee",
+                  "image": "ghee.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 10,
+              "step": "If you dont like the sweet taste you can omit the raisins..",
+              "ingredients": [
+                {
+                  "id": 9299,
+                  "name": "raisins",
+                  "localizedName": "raisins",
+                  "image": "raisins.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 11,
+              "step": "Fried rice is ready..",
+              "ingredients": [
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 12,
+              "step": "It tastes good when served with gobi Manchurian..",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 13,
+              "step": "Or just tomato sauce and raita will do..",
+              "ingredients": [
+                {
+                  "id": 11549,
+                  "name": "tomato sauce",
+                  "localizedName": "tomato sauce",
+                  "image": "tomato-sauce-or-pasta-sauce.jpg"
+                },
+                {
+                  "id": 1011116,
+                  "name": "raita",
+                  "localizedName": "raita",
+                  "image": "raita-or-tzaziki.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/vegetable-fried-rice-664553"
+    }
+  ]
+}

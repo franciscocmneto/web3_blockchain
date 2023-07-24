@@ -1,0 +1,9 @@
+veggie
+https://api.spoonacular.com/recipes/random?apiKey=edad04879ce74ca68871604be455e04a&number=9&tags=vegetarian
+
+popular
+https://api.spoonacular.com/recipes/random?apiKey=edad04879ce74ca68871604be455e04a&number=9
+
+cuisine 
+https://api.spoonacular.com/recipes/complexSearch?apiKey=edad04879ce74ca68871604be455e04a&cuisine=american
+

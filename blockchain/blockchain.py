@@ -2,10 +2,8 @@ import hashlib
 import json
 import time
 from flask import Flask, request, jsonify
-
 from flask_cors import CORS
-
-
+# from popchain import populate_api
 
 class Block:
     def __init__(self, index, timestamp, data, previous_hash, nonce, difficulty):
@@ -102,7 +100,7 @@ blockchain_chinese = Blockchain(difficulty_chinese)
 @app.route('/add_block_popular', methods=['POST'])
 def add_block_popular():
     data = json.loads(request.data)
-    recipes = data['recipes']
+    recipes = data
 
     index = len(blockchain_popular.chain)
     timestamp = time.time()
@@ -132,7 +130,7 @@ def is_valid_popular():
 @app.route('/add_block_vegetarian', methods=['POST'])
 def add_block_vegetarian():
     data = json.loads(request.data)
-    recipes = data['recipes']
+    recipes = data
 
     index = len(blockchain_vegetarian.chain)
     timestamp = time.time()
@@ -162,7 +160,7 @@ def is_valid_vegetarian():
 @app.route('/add_block_italian', methods=['POST'])
 def add_block_italian():
     data = json.loads(request.data)
-    recipes = data['recipes']
+    recipes = data
 
     index = len(blockchain_italian.chain)
     timestamp = time.time()
@@ -222,7 +220,7 @@ def is_valid_american():
 @app.route('/add_block_japanese', methods=['POST'])
 def add_block_japanese():
     data = json.loads(request.data)
-    recipes = data['recipes']
+    recipes = data
 
     index = len(blockchain_japanese.chain)
     timestamp = time.time()
@@ -252,7 +250,7 @@ def is_valid_japanese():
 @app.route('/add_block_chinese', methods=['POST'])
 def add_block_chinese():
     data = json.loads(request.data)
-    recipes = data['recipes']
+    recipes = data
 
     index = len(blockchain_chinese.chain)
     timestamp = time.time()
@@ -281,3 +279,4 @@ def is_valid_chinese():
 # Execução do aplicativo Flask
 if __name__ == '__main__':
     app.run(port=5000)
+    
